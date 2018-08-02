@@ -1,4 +1,4 @@
-echo -e "#########################\nSetting up eclipse...\n#########################"
+echo -e "#########################\nSetting up intellij...\n#########################"
 USER_NAME=$1
 USER_EMAIL=$2
 DEFAULT_LXPANEL=$3
