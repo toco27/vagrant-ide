@@ -1,0 +1,6 @@
+vm.name: home010818
+vm.password: devbox
+user.name: Matthias Schreiber
+user.email: matthias.schreiber@partner.bmw.de
+vm.monitor.count: 2
+ssh.key.password: secret
