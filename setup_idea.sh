@@ -13,8 +13,6 @@ wget -q -O /opt/$IDEA_ARCHIVE https://download.jetbrains.com/idea/$IDEA_ARCHIVE
 cd /opt/ && tar -zxf $IDEA_ARCHIVE
 rm $IDEA_ARCHIVE
 
-#echo "-Duser.name=$USER_NAME $USER_EMAIL" >> $ECLIPSE_DIR/eclipse.ini
-
 ls /opt/ | grep 'idea-IC' | head -1 | while read f; do mv $f idea; done
 
 # Set up shortcut on the LX panel
