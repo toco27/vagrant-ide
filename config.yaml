@@ -4,3 +4,4 @@ user.name: <USERNAME>
 user.email: <USER_EMAIL>
 vm.monitor.count: 2
 ssh.key.password: <SECRET>
+version: 0.0.1
